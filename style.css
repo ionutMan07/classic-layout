@@ -1,6 +1,9 @@
 
-.parent {
+body,html{
     margin: 0;
+    padding: 0;
+}
+.parent {
     display: grid;
     grid-template: auto 1fr auto / auto 1fr auto;
     place-content: center;
