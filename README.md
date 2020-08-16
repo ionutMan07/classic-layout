@@ -1,2 +1,2 @@
-# classic layot
+# classic layout
  classic layout
